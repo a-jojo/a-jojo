@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Jojo
 - 👀 I’m interested in anime, manga, programming and fitness
-- 🌱 I’m currently learning how to use Github and want to learn web scraping soon
+- 🌱 I’m currently learning how to use Github and PyGame
 - 💞️ I’m looking to collaborate on any beginner friendly Python projects
 - 📖 Check out my AniList - www.anilist.co/user/DrChopper/
 <!---
